@@ -5,7 +5,7 @@ let minAmplitude = 2;
 let maxDistance = 100;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(300, 300);
   ball = {
     x: width / 2,
     y: height / 2,
